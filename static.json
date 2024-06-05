@@ -1,0 +1,8 @@
+{
+    "redirects": [],
+    "headers": [],
+    "error_pages": {},
+    "rewrites": [],
+    "clean_urls": true,
+    "trailing_slash": false
+}
