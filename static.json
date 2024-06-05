@@ -2,7 +2,9 @@
     "redirects": [],
     "headers": [],
     "error_pages": {},
-    "rewrites": [],
+    "rewrites": [
+        { "source": "/*", "destination": "/index.html" }
+    ],
     "clean_urls": true,
     "trailing_slash": false
 }
